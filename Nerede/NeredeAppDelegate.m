@@ -22,7 +22,7 @@
     [[UIApplication sharedApplication] registerForRemoteNotificationTypes:
      (UIRemoteNotificationTypeBadge | UIRemoteNotificationTypeSound | UIRemoteNotificationTypeAlert)];
 
-    
+    //degisiklik
     application.applicationIconBadgeNumber = 0;
     
     //window nesnesini olustur
